@@ -12,7 +12,7 @@ This Visual Studio Code extension provides a collection of helpful CSS snippets 
 
 -  `gbd-flex` To have flex and related properties. 
 
-![GBD-Flex](assets/gbd1.png)
+![GBD-Flex](https://github.com/jatiinyadav/GBDSnippets/blob/master/assets/gbd1.png)
 ## Release Notes
 
 ### 0.0.1 
