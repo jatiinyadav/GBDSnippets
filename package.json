@@ -1,9 +1,10 @@
 {
-  "name": "gbd",
-  "displayName": "gbdsnippets",
+  "name": "gbdsnippets",
+  "displayName": "GBDSnippets",
   "publisher": "JatinYadav",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A collection of helpful CSS snippets to streamline your coding workflow.",
+  "icon": "assets/logo.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
