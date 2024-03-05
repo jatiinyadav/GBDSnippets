@@ -1,0 +1,26 @@
+{
+    "gbd-html": {
+        "scope": "css",
+        "body": [
+            "* {",
+            "\tmargin: 0;",
+            "\tpadding: 0;",
+            "\tbox-sizing: border-box;",
+            "}"
+        ],
+        "prefix": "gbd-init"
+    },
+    "gbd-flex": {
+        "scope": "css",
+        "body": [
+            ".display-flex {",
+            "\tdisplay:flex;",
+            "\tjustify-content: center;",
+            "\talign-items: center;",
+            "\tflex-direction: row;",
+            "\tgap: 1rem;",
+            "}"
+        ],
+        "prefix": "gbd-flex"
+    }
+}

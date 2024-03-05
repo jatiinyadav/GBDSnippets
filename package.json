@@ -1,0 +1,21 @@
+{
+  "name": "gbd",
+  "displayName": "gbdsnippets",
+  "publisher": "JatinYadav",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
